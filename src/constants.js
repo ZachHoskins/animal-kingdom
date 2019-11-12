@@ -53,4 +53,5 @@ export const OTHER_KINGDOMS = [
   {
     app: 'https://animalkingdoms.netlify.com',
     ruler: 'meepers.id.blockstack'
+  }
 ]
